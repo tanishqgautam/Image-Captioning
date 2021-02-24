@@ -6,7 +6,7 @@ Datasets :-
 2. [Glove6B](https://nlp.stanford.edu/projects/glove/)
 
 
-# Articles  
+# My Articles 
 1. [Create your Own Image Caption Generator using Keras!](https://www.analyticsvidhya.com/blog/2020/11/create-your-own-image-caption-generator-using-keras/)   
 2. [A Hands-on Tutorial to Learn Attention Mechanism For Image Caption Generation in Python](https://www.analyticsvidhya.com/blog/2020/11/attention-mechanism-for-caption-generation/)   
 3. [Implementation of Attention Mechanism for Caption Generation on Transformers using TensorFlow](https://www.analyticsvidhya.com/blog/2021/01/implementation-of-attention-mechanism-for-caption-generation-on-transformers-using-tensorflow/)
